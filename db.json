@@ -1,0 +1,139 @@
+{
+	"questions": [
+		{
+			"question": "Who was Captain of the Griffindor Quidditch team in Harry's first year?",
+			"options": [
+				"Katie Bell",
+				"Alicia Spinnet",
+				"Charlie Weasley",
+				"Oliver Wood"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Who was Captain of the Revenclaw Quidditch team in Harry's third year?",
+			"options": [
+				"Terry Boot",
+				"Roberta Bradley",
+				"Marcus Belby",
+				"Roger Davies"
+			],
+			"correctOption": 2,
+			"points": 10
+		},
+		{
+			"question": "Who was Captain of the Slytherin Quidditch team in Harry's first year?",
+			"options": [
+				"Miles Blerchley",
+				"Terence Higgs",
+				"Adrian Pucey",
+				"Marcus Flint"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Why did Harry miss the final Quidditch game of the season in Philosopher's Stone?",
+			"options": [
+				"Because he was in the hospital wing",
+				"Because he was in detention with Filch",
+				"Because he overslept",
+				"Because he'd been sent back to the Dursley's early"
+			],
+			"correctOption": 0,
+			"points": 10
+		},
+		{
+			"question": "Who was commentating at the first match of Harry?",
+			"options": [
+				"Zacharias Smith",
+				"Lee Jordan",
+				"Luna Lovegood",
+				"Lavander Brown"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "In which Book did Harry first fly against Ravenclaw Seeker Cho Chang?",
+			"options": [
+				"Philosopher's Stone",
+				"Order of the Phoenix",
+				"Chamber of Secrets",
+				"Prisoner of Azkaban"
+			],
+			"correctOption": 3,
+			"points": 10
+		},
+		{
+			"question": "Which of Ron's brothers was once a Gryffindor Quidditch captain",
+			"options": ["George", "Bill", "Charlie", "Fred"],
+			"correctOption": 2,
+			"points": 30
+		},
+		{
+			"question": "Who was Gryffindor's team captain when Ron became Keeper",
+			"options": [
+				"Ginny Weasley",
+				"Oliver Wood",
+				"Harry Potter",
+				"Angelina Johnson"
+			],
+			"correctOption": 3,
+			"points": 20
+		},
+		{
+			"question": "Which Quidditch players score goals?",
+			"options": ["Keeper", "Seeker", "Beater", "Chaser"],
+			"correctOption": 3,
+			"points": 20
+		},
+		{
+			"question": "Which position does Harry Potter play at Hogwarts?",
+			"options": ["Centre forward", "Seeker", "Beater", "Chaser"],
+			"correctOption": 1,
+			"points": 30
+		},
+		{
+			"question": "When a Seeker catches the Golden Snitch, how many points do they win for their team and end the match?",
+			"options": ["1 point", "100 points", "5 points", "150 points"],
+			"correctOption": 3,
+			"points": 30
+		},
+		{
+			"question": "Harry is said to love this particular Quidditch team. Who are they??",
+			"options": [
+				"Ballycastle Bats",
+				"Holyhead Harpies",
+				"Caerphilly Catapults",
+				"Montrose Magpies"
+			],
+			"correctOption": 1,
+			"points": 10
+		},
+		{
+			"question": "Which of these Gryffindors did NOT try out for the Quidditch team after Harry was made captain?",
+			"options": [
+				"Demelza Robins",
+				"Cormac McLaggen",
+				"Jimmy Peakes",
+				"Neville Longbottom"
+			],
+			"correctOption": 3,
+			"points": 30
+		},
+		{
+			"question": "In which year did Harry and the Gryffindor team first win the Quidditch House Cup",
+			"options": ["Second year", "Third year", "Fifth year", "First year"],
+			"correctOption": 1,
+			"points": 30
+		},
+		{
+			"question": "How many balls are involved in one game of Quidditch",
+			"options": ["Five", "Two", "Four", "Three"],
+			"correctOption": 2,
+			"points": 20
+		}
+	]
+}
